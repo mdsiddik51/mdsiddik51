@@ -30,15 +30,14 @@
 
 ### ⚡ About Me
 
-<div>
-
 <strong>
+  
 I am a passionate Computer Science & Technology student currently in my 3rd year.
 
 I am focused on becoming a professional Full Stack Web Developer by building real-world projects and continuously improving my skills.
+
 </strong>
 
-</div>
 <br/>
 
 - 🔭 **Current Focus:** Advanced React patterns and Backend optimization.
@@ -55,9 +54,9 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 
 ## 💻 My Technology Stack 
 
-<table border="0" style="outline: none;">
+<table border="0" style="border: none;">
  <tr>
-  <td width="65%" valign="top" style="border: none;">
+  <td width="65%" valign="top" style="border: 0px;n">
 
 ### 🚀 Programming Languages
 <p align="left">
