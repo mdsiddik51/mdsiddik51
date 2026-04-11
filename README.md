@@ -67,7 +67,6 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite&perline=10" />
   <br />
-  <strong>DaisyUI</strong> (Tailwind CSS component library)
 </p>
 
 ### ⚙️ Backend & Database
