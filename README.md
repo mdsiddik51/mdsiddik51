@@ -95,10 +95,9 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 
 ## 📊 Performance & Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsiddik51&theme=transparent&hide_border=true&background=0f172a00&ring=2575FC&fire=6a11cb&currStreakLabel=2575FC" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mdsiddik51&theme=transparent&hide_border=true&background=0f172a00&ring=2575FC&fire=6a11cb&currStreakLabel=2575FC" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
