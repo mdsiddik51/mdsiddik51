@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Md%20Abu%20Bakar%20Siddik&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="cover.png" />
 </p>
 
 <p align="center">
@@ -19,14 +19,13 @@
   <a href="https://www.linkedin.com/in/md-abu-bakar-siddik7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mdsiddik51">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://absportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mdsiddik4417@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ### ⚡ About Me
 
@@ -49,34 +48,37 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 
 <hr/>
 
-
 <br/>
 
-## 💻 My Technology Stack 
+## 💻 My Technology Stack
 
 <table border="0" style="border: none;">
  <tr>
   <td width="65%" valign="top" style="border: 0px;n">
 
 ### 🚀 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,python&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python&perline=10" />
 </p>
 
 ### 🎨 Frontend Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite&perline=10" />
   <br />
 </p>
 
 ### ⚙️ Backend & Database
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=10" />
 </p>
 
 ### 🛠️ Professional Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,figma,vercel,netlify&perline=10" />
 </p>
 
   </td>
@@ -91,6 +93,7 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 <br/>
 
 ---
+
 <br/>
 
 ## 📊 Performance & Statistics
@@ -102,8 +105,6 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 ---
 
 <br/>
-
-
 
 ```javascript
 const developer = {
