@@ -111,7 +111,7 @@ I am focused on becoming a professional Full Stack Web Developer by building rea
 const developer = {
   name: "Md Abu Bakar Siddik",
   title: "Full Stack Web Developer",
-  status: "3rd Year CST Student",
+  status: "3rd Year CS Student",
   location: "Kurigram, Dhaka, Bangladesh",
   languages: ["English", "Bengali"],
 
